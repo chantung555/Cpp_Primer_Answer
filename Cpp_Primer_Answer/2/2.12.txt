@@ -1,0 +1,14 @@
+(a)
+It's invalid, cause double is a key word in C++.
+
+(b)
+It's right.
+
+(c)
+It's ilegal, cause - is not an identifier.
+
+(d)
+It's invalid, cause the number can't be ahead of an identifier in C++.
+
+(e)
+It's right

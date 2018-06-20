@@ -1,0 +1,4 @@
+(a) Valid.
+(b) Invalid. Because inference must refer to an object instead of literal.
+(c) Valid.
+(d) Invalid. Because inference must be initialised.

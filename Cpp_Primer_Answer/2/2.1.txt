@@ -1,0 +1,6 @@
+The signed can represent positive numbers, negative numbers and zero, while unsigned can only represent numbers no less than zero.
+
+Usage:
+1. No negative, unsigned.
+2. Use int for integer arithmetic. Or use long long(if large).
+3. Use double for floating-point computations.

@@ -1,0 +1,4 @@
+(a) Valid. The value of variable r2 and d will be assigned with 3.14159.
+(b) Valid. The integral type will be converted to double type.
+(c) Valid. But the value of variable d or r2 will be truncated.
+(d) Valid. But the value of variable d or r2 will be truncated.

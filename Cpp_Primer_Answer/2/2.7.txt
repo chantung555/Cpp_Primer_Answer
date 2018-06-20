@@ -1,0 +1,23 @@
+(a)
+According to the ASCII table,
+
+\145 means character 'e'.
+\012 means 'new line'.
+
+So the output is:
+"Who goes with Fergus?"
+(New line)
+
+It's a string.
+
+(b)
+31.4
+"long double"
+
+(c)
+1024
+"float"
+
+(d)
+3.14
+"long double"

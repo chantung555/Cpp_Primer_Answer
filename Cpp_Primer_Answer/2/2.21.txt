@@ -1,0 +1,2 @@
+(a) Illegal. A double pointer can't point to a int type.
+(b) Illegal. A pointer should be initialized with nullstr or other concrete address.

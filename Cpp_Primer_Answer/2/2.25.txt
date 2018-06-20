@@ -1,0 +1,12 @@
+(a)
+int *ip: int pointer, value is uncertain.
+int i: int type, value is uncertain.
+int &r: int refernce, refer to i.
+
+(b)
+int i: int type, value is uncertain.
+int *ip: int pointer, value is nullstr.
+
+(c)
+int *ip: int pointer, value is uncertain.
+int ip2: int type, value is uncertain. 

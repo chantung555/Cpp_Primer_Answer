@@ -1,0 +1,4 @@
+global_str: is a global variable which is not explicitly initialised, so it will be default initialised as empty string.
+global_int: is a global variable which is not explicitly initialised, so it will be default initialised as 0.
+local_int: is a local variable within a function and not explicitly initialised, so its value is undefined.
+local_str: is a local variable within a function and not explicitly initialised, but it has a value defined by the class string. So it will be initialised as empty string.

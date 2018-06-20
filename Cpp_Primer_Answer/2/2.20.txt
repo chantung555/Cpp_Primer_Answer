@@ -1,0 +1,1 @@
+Integral pointer p1 points to integral variable i and then caculate 42*42.

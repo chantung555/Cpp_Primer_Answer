@@ -1,0 +1,8 @@
+(a)
+It's definition and can't be used within a function.
+
+(b)
+It's definition.
+
+(c)
+It's declaration.

@@ -1,0 +1,6 @@
+(a) Legal.
+(b) Ilegal. The int pointer cannot point to const int type.
+(c) Ilegal. The reason is same as above.
+(d) Ilegal. The value of const pointer cannot be changed.
+(e) Ilegal. The reasion is same as above.
+(f) Ilegal. The value of const object cannot be changed.

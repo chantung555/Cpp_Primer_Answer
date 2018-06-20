@@ -1,0 +1,1 @@
+It's legal. The output will be 100 45. Because the local i is only valid in inner scope and the value of variable i in outer scope is still 100.

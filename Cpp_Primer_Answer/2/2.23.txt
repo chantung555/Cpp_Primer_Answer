@@ -1,0 +1,1 @@
+No, because only the pointer p is known by us, more information should be given.

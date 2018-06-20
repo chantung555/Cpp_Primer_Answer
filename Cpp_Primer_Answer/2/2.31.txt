@@ -1,0 +1,5 @@
+(a) Legal. Top-level const in v2 is ignored.
+(b) Ilegal. p2 has a low-level const but p1 doesn't have.
+(c) Legal.
+(d) Ilegal. p2 has a low-level const but p1 doesn't have.
+(e) Legal.

@@ -1,0 +1,3 @@
+j = 100.
+The value of variable i which was defined in global scope will be overwritten by another definition in block scope. So the value of variable i in block scope will be 100.
+(The global i was hidden by the local i)

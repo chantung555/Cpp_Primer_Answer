@@ -1,0 +1,30 @@
+(a)
+error: expected '(' for function-style cast or type construction
+
+Reason: The int variable isn't initialised, so its value is uncertain.
+
+int input_value{0};
+std::cin >> input_value;
+
+(b)
+warning: implicit conversion from 'double' to 'int' changes value from 3.14 to 3 [-Wliteral-conversion]
+
+The variable i is of type integral, when it is assigned with a value of type double, the value will lose its precision.
+
+double i = {3.14}
+
+(c)
+error: use of undeclared identifier 'wage'
+
+The variable wage isn't declared before.
+
+double wage;
+double salary = wage = 9999.999;
+
+(d)
+warning: implicit conversion from 'double' to 'int' changes value from 3.14 to 3 [-Wliteral-conversion]
+
+The variable i is of type integral, when it is assigned with a value of type double, the value will lose its precision.
+
+double i = 3.14;
+

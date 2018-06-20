@@ -1,0 +1,3 @@
+The integral in first line is decimal.
+
+09 is invalid, because octal doesn't have 9. Day is octal integral.

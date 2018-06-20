@@ -1,0 +1,2 @@
+The void pointer can point to objects of any types.
+The long pointer can't point to object of int type.

@@ -1,0 +1,5 @@
+(a) Ilegal. i is defined as an int type. cp is a const pointer which points to int object, so it must be initialized.
+(b) Ilegal. p1 is a pointer which points to int object. p2 is a const pointer which points to int object, so it must be initialized.
+(c) Ilegal. ic is a const of int type, so it must be initialized. r is a reference which refers to const object.
+(d) Ilegal. p3 is a const pointer which points to const object of int type, so it must be intialiezed.
+(e) Legal. p is a pointer which points to const int.

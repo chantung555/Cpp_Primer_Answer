@@ -1,0 +1,2 @@
+(a) Illegal. Const variable must be initialized by declaration.
+(d) Illegal. The value of a const variable can't be changed.

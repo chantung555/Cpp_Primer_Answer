@@ -1,0 +1,7 @@
+Definition:
+Pointer: points to any other types.
+Reference: another name of an object.
+
+Difference:
+1. Once initialized, a reference remains bound to its initial object. There is no way to rebind a reference to a different object. A pointer can be assigned and copied.
+2. A reference must be initialized. a pointer need not be initialized at the time it is defined.

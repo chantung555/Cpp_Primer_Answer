@@ -1,0 +1,7 @@
+(a) Ilegal. r must refer to an object.
+(b) Legal. It's a const pointer, pointing to int object.
+(c) Legal. Const reference can refert to any expressions.
+(d) Legal. It's a const pointer, pointing to const int object, the object can be any kinds of expressions.
+(e) Legal. It's a const pointer, which can point to objects of any types.
+(f) Ilegal. Reference isn't an object, so it must be initialized by declaration. And r2 is a reference so it cannot be const.
+(g) Legal. The reference which refers to const can be initialized with any types of expressions.
